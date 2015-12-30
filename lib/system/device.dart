@@ -55,7 +55,7 @@ class Device {
   bool iPhone;
   bool iPhone4;
   bool iPad;
-  double pixelRatio;
+  num pixelRatio;
   bool littleEndian;
   bool support32bit;
   bool fullscreen;
